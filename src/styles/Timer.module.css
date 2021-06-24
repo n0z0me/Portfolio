@@ -124,3 +124,8 @@
   flex-shrink: auto;
   flex-basis: auto;
 }
+
+.time {
+  font-size: 100px;
+  margin-bottom: 5rem;
+}

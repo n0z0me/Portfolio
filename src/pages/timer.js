@@ -41,8 +41,8 @@ export default function Timer() {
       </Head>
 
       <main className={styles.main}>
-        <div>{nowTime}</div>
-        <div>{nextTime}</div>
+        <div className={styles.time}>{nowTime}</div>
+        <div className={styles.time}>{nextTime}</div>
       </main>
     </div>
   )
