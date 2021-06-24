@@ -3,7 +3,7 @@ import { faStackOverflow, faTwitter, faGithub, faLinkedin } from "@fortawesome/f
 import Head from 'next/head'
 import Footer from '../components/Footer'
 import Header from "../components/Header"
-import styles from '../styles/Home.module.css'
+import styles from '../styles/Timer.module.css'
 
 export default function Timer() {
   return (
