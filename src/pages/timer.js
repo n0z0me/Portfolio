@@ -17,7 +17,6 @@ export default function Timer() {
         <div>現在時刻</div>
         <div>15分後</div>
       </main>
-      <Footer/>
     </div>
   )
 }
